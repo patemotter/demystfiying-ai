@@ -1,4 +1,6 @@
-# demystfiying-ai
+# Demystifying AI
+
+This is a hands-on series I made to try and take some of the mystery out of AI. 
 
 | Session | Topic | Date | Colab | Notebook | Video Recording | NotebookLM Podcast | Notes / Transcript | Chat Transcript |
 |---|---|---|---|---|---|---|---|---|
